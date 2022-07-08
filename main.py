@@ -8,4 +8,6 @@ for j in Warzywniak:
 print ('W Piekarni kupuję', Piekarnia)
 print ('W Warzywniaku kupuję', Warzywniak)
 x = len(Piekarnia) + len(Warzywniak)
-print ('W sumie kupuję', (x), 'produktów'
+print ('W sumie kupuję', (x), 'produktów')
+
+print ('zakupy robi ktoś')
